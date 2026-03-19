@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **rk49023@gmail.com** For Collaboration/Project or Anything
 - 🔭 **I’m currently working on:** Next.js Project 
 - 🌱 **I’m currently learning:** Python
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** rk4923@gmail.com
+- 📫 **How to reach me:** rk4009023@gmail.com
 - 😄 **Pronouns:** Rajan Mandal
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
