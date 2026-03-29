@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rajan Mandal
 **A passionate Fullstack Devlpoer|| DevOps Engineer**
 
-Email Me 👉 ✉️ **rk49023@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rk4009023@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Next.js Project 
 - 🌱 **I’m currently learning:** Python
