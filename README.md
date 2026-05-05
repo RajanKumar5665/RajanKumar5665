@@ -33,12 +33,12 @@ Email Me 👉 ✉️ **rk4009023@gmail.com** For Collaboration/Project or Anythi
 <tr>
 <td>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajanKumar5665&show_icons=true&theme=tokyonight" />
 
 </td>
 <td>
 
-<img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=RajanKumar5665&theme=tokyonight" />
 
 </td>
 </tr>
