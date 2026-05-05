@@ -1,14 +1,22 @@
 # 💫 Hi 👋, I'm Rajan Mandal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Engineer;Next.js+%7C+React+%7C+Node.js;Problem+Solver+%26+Tech+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Engineer;Next.js+%7C+React+%7C+Node.js;Problem+Solver+%26+Tech+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/rajankumar9222"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rajan-mandal-860327275"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rk4009023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RajanKumar5665"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/rajankumar9222">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rajan-mandal-860327275">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rk4009023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/RajanKumar5665">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -75,20 +83,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajanKumar5665&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RajanKumar5665&theme=tokyonight&hide_border=true" height="160" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajanKumar5665&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RajanKumar5665&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajanKumar5665&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajanKumar5665&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 ---
 
-## 🏆 Top Contributed Repos
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RajanKumar5665&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RajanKumar5665&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1" />
 </p>
 
 ---
@@ -114,5 +122,5 @@
 </p>
 
 <p align="center">
-  <b>✉️ Open to collaboration & exciting projects — drop me a mail at rk4009023@gmail.com</b>
+  <b>✉️ Open to collaboration & exciting projects — rk4009023@gmail.com</b>
 </p>
